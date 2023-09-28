@@ -10,7 +10,7 @@ namespace ConsoleApp_12E_2023C2
         public string Apellido { get; set; }
         public string Nombre { get; set; }
 
-        public string Profesion { get; set; }
+        public string Profesionnnnn { get; set; }
 
 
         public string MostrarDatos() {
